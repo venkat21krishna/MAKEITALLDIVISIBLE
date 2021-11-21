@@ -34,4 +34,5 @@ int main(){
         else score=-1;
         cout<<score<<endl;
     }
-re
+return 0;
+}
